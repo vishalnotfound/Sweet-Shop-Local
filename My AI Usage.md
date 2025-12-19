@@ -1,4 +1,4 @@
-This project used AI responsibly to enhance development workflow:
+This project used AI responsibly to enhance development workflow :
 
 ChatGPT: Helped in brainstorming API structure and generating initial boilerplate code.
 
