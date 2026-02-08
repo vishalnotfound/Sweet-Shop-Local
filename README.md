@@ -1,4 +1,4 @@
-# Sweet Shop Kata
+# Sweet Shop Management 
 
 A full-stack web application for managing a sweet shop inventory, built with FastAPI (backend) and React (frontend). This project demonstrates CRUD operations, user authentication, and role-based access control.
 
